@@ -3,13 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package grupal;
+
+package grupal.pkg3;
 
 /**
  *
- * @author DELL
+ * @author Juan Gahona - Scoowy
  */
-public class Grupal {
+public class Grupal3 {
 
     /**
      * @param args the command line arguments
@@ -17,5 +18,5 @@ public class Grupal {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+
 }
